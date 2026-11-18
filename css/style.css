@@ -274,15 +274,6 @@ a:active, button:active {
     gap: 10px;
 }
 
-.footer__social-link {
-    width: 44px;
-    height: 44px;
-    background-color: #2a2524;
-    color: #ffffff;
-    border-radius: 4px;
-    font-size: 12px;
-}
-
 .footer__heading {
     font-size: 14px;
     font-weight: 600;
